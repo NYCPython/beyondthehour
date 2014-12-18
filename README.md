@@ -23,9 +23,10 @@ We've asked the mentors from Saturday's Hour of Code for advice or words of enco
 
 Here's just a few ideas of what you can do with coding!
 
-You can interface with hardware, build robots, or build custom games:<br/>
+You can interface with hardware, build robots, program christmas lights, or build custom games:<br/>
 
 <a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="150"/></a>
+<a href="https://www.madewithcode.com/"><img src="https://www.madewithcode.com/resources/images/lights-teaser.png" height="150"/></a>
 <a href="http://www.blackgirlscode.com/"><img src="http://www.blackgirlscode.com/uploads/7/1/1/6/7116907/7313878.jpg?270" height="150"/></a>
 <a href="http://scratch.mit.edu/hoc2014/"><img src="http://code.org/images/fit-520/scratch.jpg" height="150"/></a>
 
@@ -44,13 +45,13 @@ CoderDojo NYC hosts free monthly workshops for youth ages 7-17:
 
 NYC Python and Women Who Code provide office hours, hacknights, workshops and talks all for free, for programmer beginners and experts alike:
 
-<a href="http://www.meetup.com/nycpython/"><img src="http://photos1.meetupstatic.com/photos/event/5/4/2/6/event_279261542.jpeg" height="150"/></a>
+<a href="http://www.meetup.com/nycpython/"><img src="http://photos1.meetupstatic.com/photos/event/5/4/2/6/event_279261542.jpeg" height="150" /></a>
 <a href="http://www.meetup.com/WomenWhoCodeNYC/"><img src="http://media.bizj.us/view/img/1545671/women-who-code*304.jpg" height="150"/></a>
 
 General Assembly and GirlDevelopIt host inexpensive courses
 
 <a href="http://generalassemb.ly"><img src="http://www.maveron.com/blog/wp-content/uploads/General-Assembly-logo.jpg" height="150"/></a>
-<a href="http://www.girldevelopit.com/"><img src="http://photos3.meetupstatic.com/photos/event/5/5/9/7/global_50901911.jpeg" height="150"/></a>
+<a href="http://www.girldevelopit.com/"><img src="http://photos3.meetupstatic.com/photos/event/5/5/9/7/global_50901911.jpeg" height="150" /></a>
 
 
 
