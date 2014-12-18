@@ -17,3 +17,18 @@ We've asked the mentors from Saturday's Hour of Code for advice or words of enco
             “Programming can be a really rewarding experience, and there's 
             no limit to what you can do with it.”
 
+### What can you do with coding?
+
+Interface with hardware
+<a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="150"/></a>
+
+Build custom games
+<a href="http://scratch.mit.edu/hoc2014/"><img src="http://code.org/images/fit-520/scratch.jpg" height="150"/></a>
+
+Study the human mind, with Python
+<a href="http://www.codecademy.com/stories/103-study-the-human-mind-with-python"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/laura-kelly-ca99f1740789613c253eda79186501db.png" height="150"/></a>
+
+A new career, at 55
+<a href="http://www.codecademy.com/stories/102-a-new-career-at-55"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/liz-54823f65849edc3360bf118e2536d342.jpg" height="150"></a>
+
+
