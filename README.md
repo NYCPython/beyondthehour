@@ -19,16 +19,14 @@ We've asked the mentors from Saturday's Hour of Code for advice or words of enco
 
 ### What can you do with coding?
 
-Interface with hardware
-<a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="150"/></a>
+Here's just a few ideas of what you can do with coding!
 
-Build custom games
+You can interface with hardware, build robots, or build custom games:
+<a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="150"/></a>
 <a href="http://scratch.mit.edu/hoc2014/"><img src="http://code.org/images/fit-520/scratch.jpg" height="150"/></a>
 
-Study the human mind, with Python
+You can use programming to study the human mind, or change careers (even at 55!):
 <a href="http://www.codecademy.com/stories/103-study-the-human-mind-with-python"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/laura-kelly-ca99f1740789613c253eda79186501db.png" height="150"/></a>
-
-A new career, at 55
 <a href="http://www.codecademy.com/stories/102-a-new-career-at-55"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/liz-54823f65849edc3360bf118e2536d342.jpg" height="150"></a>
 
 
