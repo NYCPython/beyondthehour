@@ -24,7 +24,7 @@ Here's just a few ideas of what you can do with coding!
 You can interface with hardware, build robots, or build custom games:<br/>
 
 <a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="150"/></a>
-<a href="http://www.blackgirlscode.com/"><img src="http://www.blackgirlscode.com/uploads/7/1/1/6/7116907/7313878.jpg?270"/></a>
+<a href="http://www.blackgirlscode.com/"><img src="http://www.blackgirlscode.com/uploads/7/1/1/6/7116907/7313878.jpg?270" height="150"/></a>
 <a href="http://scratch.mit.edu/hoc2014/"><img src="http://code.org/images/fit-520/scratch.jpg" height="150"/></a>
 
 You can use programming to study the human mind, make your dream idea, or change careers (even at 55!):
