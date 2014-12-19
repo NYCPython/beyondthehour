@@ -1,4 +1,4 @@
-## Beyond One Hour of Code
+## Beyond Hour of Code
 
 We're happy that you've begun your exciting exploration into the fun and limitless world of programming! 
 
