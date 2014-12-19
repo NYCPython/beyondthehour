@@ -6,10 +6,10 @@ We hope that you'll also want to spread the joy of [Hour of Code](http://nycpyth
 
 In addition to the [Beyond One Hour](http://code.org/learn/beyond) exercises on the code.org site, we've collected the additional tips and resources that we wanted to share with you:
 
-* Encouragement from mentors
-* What can you do with coding?
-* Free in-person resources
-* Programming Courses
+* <a href="http://nycpython.github.io/beyondthehour#mentors">Encouragement from mentors</a>
+* <a href="http://nycpython.github.io/beyondthehour#stories">What can you do with coding?</a>
+* <a href="http://nycpython.github.io/beyondthehour#resources">Free in-person resources</a>
+* <a href="http://nycpython.github.io/beyondthehour#courses">Programming Courses</a>
 
 <a name="mentors"></a>
 ### Encouragement from Mentors
@@ -60,7 +60,7 @@ You can use programming to <a href="http://www.codecademy.com/stories/103-study-
 <a href="http://www.meetup.com/nycpython/"><img src="http://photos1.meetupstatic.com/photos/event/5/4/2/6/event_279261542.jpeg" height="100" /></a>
 <a href="http://www.meetup.com/WomenWhoCodeNYC/"><img src="http://media.bizj.us/view/img/1545671/women-who-code*304.jpg" height="100"/></a>
 
-<a name="resources"></a>
+<a name="courses"></a>
 ### Programming Courses
 
 * [Codecademy](www.codecademy.com), [KhanAcademy](https://www.khanacademy.org/), [Cousera](http://cousera.com) all have wonderful free online courses
